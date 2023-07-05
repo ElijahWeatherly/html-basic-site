@@ -4,3 +4,4 @@ basics for an html site
   - index file
   - assets folder
       - css, js, and img file
+  - nav bar with list
