@@ -1,5 +1,5 @@
 # html-basic-site
-#templates for website pages HTML/CC/JS
+templates for website pages HTML/CC/JS
 HOME PAGE
 basics for an html site
   - metadata
