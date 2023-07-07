@@ -1,4 +1,5 @@
 # html-basic-site
+HOME PAGE
 basics for an html site
   - metadata
   - index file
